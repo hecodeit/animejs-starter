@@ -18,6 +18,7 @@
     "uglifyjs": "^2.4.11"
   },
   "dependencies": {
-    "animejs": "^3.2.0"
+    "animejs": "^3.2.0",
+    "save-svg-as-png": "^1.4.17"
   }
 }
